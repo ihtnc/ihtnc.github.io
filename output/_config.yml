@@ -1,5 +1,0 @@
-remote_theme: pages-themes/cayman@v0.2.0
-title: ihtnc's homepage
-description: A collection of projects I found interesting.
-plugins:
-- jekyll-remote-theme
