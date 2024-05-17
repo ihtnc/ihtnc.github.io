@@ -7,7 +7,7 @@
   "display": "fullScreen",
   "orientation": "landscape",
   "scope": "/",
-  "start_url": "https://ihtnc.github.io/tank-game/index.html",
+  "start_url": "https://ihtnc.github.io/apps/tank-game/index.html",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
