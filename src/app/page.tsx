@@ -13,6 +13,14 @@ export default function Home() {
     name: "use-animated-canvas",
     uri: "https://www.npmjs.com/package/@ihtnc/use-animated-canvas",
     description: "A React hook to create a canvas element with a built-in render loop."
+  },{
+    name: "advent-of-code-js",
+    uri: "https://advent-of-code-js.vercel.app/",
+    description: "A collection of JavaScript solutions for the Advent of Code challenges."
+  }, {
+    name: "Dooduel",
+    uri: "https://dooduel.vercel.app/",
+    description: "A multiplayer drawing and guessing game."
   }]
 
   return (
